@@ -1,0 +1,26 @@
+@import "../../../node_modules/normalize.css/normalize";
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #162129;
+    color: #ECF8FF;
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
